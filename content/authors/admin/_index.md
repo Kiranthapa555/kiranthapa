@@ -1,32 +1,32 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include understanding the linkage between early life adversity and health outcomes.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Epidemiology
+    institution: University of Georgia
+    year: 2023
+  - course: MPH in Health Policy and Management
+    institution: University of Georgia
+    year: 2020
+  - course: Bachelor in Public Health
+    institution: Tribhuvan University
+    year: 2015
 email: ""
-first_name: Alice
+first_name: Kiran
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Social determinants of health
+- Global mental health
+- Public health
+last_name: Thapa
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Georgia
+  url: https://www.uga.edu/
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
+  label: Contact
   link: /#contact
 - display:
     header: true
@@ -36,21 +36,25 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  label: Google Scholar
+  link: https://scholar.google.com/citations?user=LH5j7LEAAAAJ&hl=en&inst=2365059173406736517&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  label: Github
+  link: https://github.com/Kiranthapa555
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  label: LinkedIn
+  link: https://www.linkedin.com/in/kiran-thapa-805291a8/
 - icon: cv
   icon_pack: ai
+  label: Curriculum Vitae
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon: 📖
 superuser: true
-title: Alice Wu 吳恩達
+title: Kiran Thapa किरण थापा
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kiran Thapa is a PhD candidate in the Department of Epidemiology & Biostatistics at the College of Public Health, University of Georgia. His research interests include ...
 {style="text-align: justify;"}
